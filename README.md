@@ -1,7 +1,6 @@
 ## Sample Spring Modulith
 
-This project uses Spring Modulith in a little way with 2 domains (stock and product) 
-and a module that aggregate both modules.
+This project uses Spring Modulith in a little way with 2 domains (stock and product) and uses events to communicate between them.
 
 ```
 
